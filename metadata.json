@@ -1,0 +1,5 @@
+{
+  "name": "ASMR Music Generator",
+  "description": "An AI-powered ASMR music generator that creates base music, analyzes it, generates ASMR samples, and mixes them together.",
+  "requestFramePermissions": []
+}
